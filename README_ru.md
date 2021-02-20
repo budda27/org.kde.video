@@ -8,7 +8,7 @@ zypper in gstreamer-plugins-libav gstreamer-plugins-qt5
 ```
 mkdir -p .local/share/plasma/wallpapers
 cd .local/share/plasma/wallpapers
-git clone https://github.com/halverneus/org.kde.video.git
+git clone https://github.com/budda27/org.kde.video.git
 ```
 * После этого, щелкните правой кнопкой мыши на рабочем столе, выберите в контекстном меню “Настроить рабочий стол”, из выпадающего списка “Тип обоев” выберите “Video”, и установите любое видео(вы даже можете выбрать фильм в качестве обоев).
 
